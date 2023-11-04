@@ -1,0 +1,365 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-attachment: fixed;
+	background-image: url(../images/main-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.GTButtonstxtcolor
+{
+color:#FF0000;
+text-decoration:none;
+font-family: "Arial", Verdana, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+}
+.GTButtonstxtcolor:hover
+{
+color:#065CA7;
+font-family:"Arial", Verdana, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+}
+.GTButtonsbottomtxtcolor
+{
+color:#000066;
+text-decoration:none;
+font-family: "Arial", Verdana, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+}
+.GTButtonsbottomtxtcolor:hover
+{
+color:#FF0000;
+text-decoration:underline;
+font-family:"Arial",Verdana, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+}
+.buttontest 
+{
+	font-family: "Arial", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.buttontest:hover 
+{
+	font-family: "Arial", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color:#FFFF00;
+}
+.buttomtest 
+{
+	font-family: "Arial", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.GTToursIconstxtcolor
+{
+color:#FFFFFF;
+text-decoration:none;
+font-family:"Arial",Verdana, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+}
+.h1
+{
+font-family:"Arial", Verdana, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#f16510;
+}
+.h3 {
+	font-family: "Arial", Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #f16510;
+	text-decoration: underline;
+	}
+	.h3:hover {
+	font-family: "Arial", Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #f16510;
+	text-decoration: underline;
+}
+
+.txt {
+	font-family: "Arial", Verdana, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #006699;
+}
+.footertxt {
+	font-family: "Arial", Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+
+.price {
+	font-family: "Arial", Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #f16510;
+}
+
+
+.h2
+{
+font-family:"Arial", Verdana, Helvetica, sans-serif;
+font-size:12px;
+font-style:normal;
+font-weight:bold;
+color:#006699;
+margin-bottom:1px;
+margin-top:1px;
+}
+.contenttxt
+{
+color:#000000;
+text-decoration:none;
+font-family:"Arial", Arial, Helvetica, sans-serif;
+font-size:11px;
+font-style:normal;
+text-align:justify;
+padding:0px 0px 0px 0px;
+}
+.domain {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.BS-BookNow
+{
+	/*background-image:url(../images/BS-BookNow.gif);*/
+color:#006699;
+text-decoration:none;
+font-family:Arial, Verdana, Helvetica, sans-serif;
+font-size:12px;
+font-style:normal;
+font-weight:bold;
+}
+div, p, h1, h2, h3, h4, ul, li, table
+{
+	margin:0;
+	padding:0;
+	border:none;
+}
+
+h3
+{
+	font-size:small;
+}
+
+/*AutoComplete flyout */
+
+.autocomplete_completionListElement 
+{  	
+	background-color : window;	
+	border : buttonshadow;
+	border-width : 1px;
+	border-style : solid;
+	cursor:auto;	
+	overflow : auto;
+	height : 150px;
+    text-align : left; 
+    list-style-type : none;
+	font-family:"Arial",Verdana, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:normal;
+	color:#666666;
+}
+
+/* AutoComplete highlighted item */
+
+.autocomplete_highlightedListItem
+{
+	background-color: #ffff99;
+	border-width:1px;
+	border-style:double;
+	border-color:#FFD942;	
+	padding: 2px;
+	font-family:"Arial",Verdana, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:normal;
+	color:#666666;
+}
+
+/* AutoComplete item */
+
+.autocomplete_listItem 
+{
+	background-color : window;	
+	padding : 2px;
+	font-family:"Arial",Verdana , Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:normal;
+	color:#666666;
+}
+.BS-BookNow
+{
+	/*background-image:url(../images/BS-BookNow.gif);*/
+color:#006699;
+text-decoration:none;
+font-family:Arial, Verdana, Helvetica, sans-serif;
+font-size:12px;
+font-style:normal;
+font-weight:bold;
+}
+.flightfaretxt
+{
+color:#000000;
+text-decoration:none;
+font-family:"Arial", Arial, Helvetica, sans-serif;
+font-size:11px;
+font-style:normal;
+padding:0px 0px 0px 0px;
+}
+.flightRoundTrip
+{
+color:#004284;
+text-decoration:none;
+font-family:"Arial",Verdana, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+}
+.AllTextBox 
+{
+border: 1px solid #7F9DB9; 
+font-family:"Arial", Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:normal;
+width:137px;
+height:14px;
+color:#666666;
+}
+.Dropdownbox
+{	 
+	COLOR: #666666;  /* Font Color Black */
+	FONT-FAMILY: "Verdana", Arial, Tahoma, Trebuchet MS, Times New Roman Greek;
+	FONT-SIZE: 10px;		
+}
+.modal-inner-wrapper
+{
+    width: 345px;
+    height: 495px;
+    background-color: Gray;
+}
+.modal-inner-wrapper .content
+{
+    width: 320px;
+    height: 495px;
+    background-color: #FFFFFF;
+    border: solid 1px Gray;
+    z-index: 9999;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.modal-inner-wrapper .content .close
+{
+    float: right;
+}
+.modal-inner-wrapper .content .body
+{
+    margin-top: 20px;
+}
+.rounded-corners
+{
+    /*FOR OTHER MAJOR BROWSERS*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px; /*FOR IE*/
+    behavior: url(border-radius.htc);
+}
+.rel
+{
+    position: relative;
+    z-index: inherit;
+    zoom: 1; /* For IE6 */
+}
+.modal-bg
+{
+    background-color: Gray;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+    z-index: 999;
+}
+.modal
+{
+    position: absolute;
+}
+.watermark
+{
+    background: #FFAAFF;
+}
+
+.popupControl
+{
+    background-color: #AAD4FF;
+    position: absolute;
+    visibility: hidden;
+    border-style: solid;
+    border-color: Black;
+    border-width: 2px;
+}
+
+.modalBackground
+{
+    background-color: Gray;
+    filter: alpha(opacity=.07);
+    opacity: 0.9;
+}
+
+.modalPopup
+{
+    background-color: #ffffdd;
+    border-width: 3px;
+    border-style: solid;
+    border-color: Gray;
+    padding: 3px;
+    width: 550px;
+}
+.pagescontenttxt
+{
+color:#000000;
+text-decoration:none;
+font-family:"Arial", Arial, Helvetica, sans-serif;
+font-size:12px;
+font-style:normal;
+text-align:justify;
+padding:2px 0px 0px 0px;
+line-height:21px;
+}
+
+.Aboutustxt
+{
+color:#000000;
+text-decoration:none;
+font-family:"Arial", Arial, Helvetica, sans-serif;
+font-size:12px;
+font-style:normal;
+text-align:justify;
+
+}
+.Contactustxt
+{
+color:#000000;
+text-decoration:none;
+font-family:"Arial", Arial, Helvetica, sans-serif;
+font-size:16px;
+font-style:normal;
+text-align:justify;
+padding:2px 0px 0px 0px;
+line-height:21px;
+}
